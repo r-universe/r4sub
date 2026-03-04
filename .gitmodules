@@ -8,3 +8,15 @@
 [submodule "r4subdata"]
 	path = r4subdata
 	url = https://github.com/r4sub/r4subdata
+[submodule "r4subprofile"]
+	path = r4subprofile
+	url = https://github.com/r4sub/r4subprofile
+[submodule "r4subrisk"]
+	path = r4subrisk
+	url = https://github.com/r4sub/r4subrisk
+[submodule "r4subscore"]
+	path = r4subscore
+	url = https://github.com/r4sub/r4subscore
+[submodule "r4subtrace"]
+	path = r4subtrace
+	url = https://github.com/r4sub/r4subtrace

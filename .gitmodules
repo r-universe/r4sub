@@ -11,6 +11,9 @@
 [submodule "r4subdata"]
 	path = r4subdata
 	url = https://github.com/r4sub/r4subdata
+[submodule "r4subpharma"]
+	path = r4subpharma
+	url = https://github.com/r4sub/r4subpharma
 [submodule "r4subprofile"]
 	path = r4subprofile
 	url = https://github.com/r4sub/r4subprofile
